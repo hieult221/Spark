@@ -40,3 +40,6 @@ Chương 4, Lập trình Spark với R, thảo luận về SparkR hoặc R trên
 Chương 8, Spark Graph Processing, thảo luận về Spark GraphX, một trong những thư viện Spark mạnh mẽ nhất để xử lý các cấu trúc dữ liệu đồ hoạ và có nhiều thuật toán để xử lý dữ liệu trong các đồ thị. Chương này bao gồm các vấn đề cơ bản của GraphX ​​và một số trường hợp sử dụng được thực hiện bằng cách sử dụng các thuật toán được cung cấp bởi GraphX.
 
 Chương 9, Thiết kế Spark Applications, thảo luận về việc thiết kế và phát triển ứng dụng xử lý dữ liệu Spark, bao gồm các tính năng khác nhau của Spark đã được đề cập trong các chương trước của cuốn sách này.
+# Ai dành cho cuốn sách này
+
+Nếu bạn là một nhà phát triển ứng dụng, nhà khoa học dữ liệu, hoặc kiến trúc sư giải pháp dữ liệu lớn, người quan tâm đến việc kết hợp sức mạnh xử lý dữ liệu của Spark với R, và củng cố xử lý dữ liệu, xử lý luồng, học máy và xử lý đồ thị vào một khuôn khổ thống nhất và tương thích cao với một API thống nhất sử dụng Scala hoặc Python, cuốn sách này dành cho bạn.

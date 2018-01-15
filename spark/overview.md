@@ -1,3 +1,4 @@
+#lời mở đầu
 Khung xử lý dữ liệu của spark được xây dựng để chứng minh bằng cách sử dụng lại dữ liệu qua lặp lại, cung cấp giá trị mà Hadoop MapReduce hoạt động kém.
 spark được phát triển để trở thành một khung xử lý dữ liệu
 spark là khung dữ liệu dựa trên JVM, nó hoạt động trên các ứng dụng JVM.
@@ -10,7 +11,7 @@ Dữ liệu ở trạng thái không sử dụng và dữ liệu đang truyền 
 Đồ thị là một cấu trúc dữ liệu hữu ích được sử dụng rất nhiều trong một số trường hợp sử dụng đặc biệt. Các thuật toán được sử dụng để xử lý dữ liệu trong cấu trúc dữ liệu đồ thị đòi hỏi tính toán cao.
 Thư viện Spark GraphX, được xây dựng trên Spark, đã lấp đầy khoảng cách này để xử lý dữ liệu và xử lý đồ thị như các hoạt động nối lưới.
 ---
-What is this book cover
+#What is this book cover
 Chương 1, Spark Fundamentals, thảo luận về các nguyên tắc cơ bản của Spark như là một khuôn khổ với các API và các thư viện đi cùng với nó, cùng với toàn bộ hệ sinh thái xử lý dữ liệu mà Spark đang tương tác.
 Chương 2, Mô hình Lập trình Spark, thảo luận về mô hình lập trình thống nhất, dựa trên các nguyên lý của phương pháp lập trình chức năng, được sử dụng trong Spark, và bao gồm các nguyên tắc cơ bản của các bộ dữ liệu phân tán khả năng phục hồi (RDD), các phép biến đổi Spark và các hành động Spark.
 Lời nói đầu
